@@ -25,7 +25,7 @@ repos:
         language_version: python3.10
 
   - repo: https://github.com/RobertCraigie/pyright-python
-    rev: v1.1.293
+    rev: latest
     hooks:
       - id: pyright
         name: pyright
